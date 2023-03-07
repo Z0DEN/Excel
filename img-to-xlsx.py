@@ -3,22 +3,12 @@ from openpyxl import Workbook
 from openpyxl.styles import PatternFill
 from openpyxl.utils import get_column_letter, column_index_from_string
 
-def crop(file_name):
-    filename = file_name
-    with Image.open(filename) as img:
-        img.load()
-    print(img.size)
-    cropped_img = img.crop((80, 100, 180, 200))
-    print(cropped_img.size)
-    cropped_img.save("cropped_image.png")
-
-#crop('/home/blesk/GitHub/Python_projects/Excel/test.png')
 
 wb = Workbook()
 ws = wb.active
 ws1 = wb.create_sheet("Mysheet")
 
-im = Image.open("/home/blesk/GitHub/Python_projects/Excel/test.png")
+im = Image.open("C:/Users/user_10/Downloads/contest-main/contest-main/test.png")
 pixels = im.load() # список с пикселями
 x, y = im.size # ширина (x) и высота (y) изображения
 
