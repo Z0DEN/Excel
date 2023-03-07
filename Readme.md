@@ -16,10 +16,10 @@
 # Получение необходимых файлов:
 
 ### Для этого нажмем на зеленую кнопку `Code`:
-<img src="https://github.com/Z0DEN/images/blob/main/Contest/Code-button.png" width="80%" height="80%"/>
+<img src="https://github.com/Z0DEN/images/blob/main/Contest/Code-button.png" width="90%" height="90%"/>
 
 ### Затем `Download ZIP`:
-<img src="https://github.com/Z0DEN/images/blob/main/Contest/Download.png" width="65%" height="65%"/>
+<img src="https://github.com/Z0DEN/images/blob/main/Contest/Download.png" width="55%" height="55%"/>
 
 ### Затем необходимо распаковать скачанный архив
 
