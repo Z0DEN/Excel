@@ -55,7 +55,7 @@ pip install Pillow openpyxl numpy
 
 ## Запуск в `Visual Code` 
 ### Запуск кода в данном компиляторе потребует аналогичных действий, что и в `PyCharm` однако сначала необходимо будет установить сам язык програмирования в виде расширения:
-<img src="https://github.com/Z0DEN/images/blob/main/Contest/extension.png" width="65%" height="65%"/>
+<img src="https://github.com/Z0DEN/images/blob/main/Contest/extension.png" width="50%" height="50%"/>
 
 ### Затем запустить программу нажав кнкопку в правом верхем углу:
 <img src="https://github.com/Z0DEN/images/blob/main/Contest/start.png" width="65%" height="65%"/>
