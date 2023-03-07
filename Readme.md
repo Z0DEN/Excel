@@ -38,7 +38,7 @@ pip install Pillow openpyxl numpy
 ---
 ---
 # Перевод картинки в `Excel`
-## 1. Откроем в программе-компиляторе файл `img-to-xlsx.py`
+## 1. Откроем файл `img-to-xlsx.py` при помощи `PyCharm`
 
 ## 2. Запустим код:
 ### Для этого нажмем правой кнопкой по названию файла: 
@@ -53,6 +53,9 @@ pip install Pillow openpyxl numpy
 ### 3. Наконец мы можем увидеть результат открыв файл `img-to-xlsx.xlsx` в папке с кодом: `Загрузки/contest-main/contest-main/`
 <img src="https://github.com/Z0DEN/images/blob/main/Contest/Excel.png" width="65%" height="65%"/>
 
+## Запуск в Visual Code потребует аналогичных действий, однако сначала необходимо будет установить сам язык програмирования в виде расширения:
+
+### Затем запустить программу:
 ---
 ---
 # Перевод изображения из `Excel` в `png`  
