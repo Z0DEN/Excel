@@ -42,10 +42,10 @@ pip install Pillow openpyxl numpy
 
 ## 2. Запустим код:
 ### Для этого нажмем правой кнопкой по названию файла: 
-<img src="https://github.com/Z0DEN/images/blob/main/Contest/right_click.png" width="65%" height="65%"/>
+<img src="https://github.com/Z0DEN/images/blob/main/Contest/right_click.png" width="90%" height="65%"/>
 
 ### Затем `Run`
-<img src="https://github.com/Z0DEN/images/blob/main/Contest/run.png" width="65%" height="65%"/>
+<img src="https://github.com/Z0DEN/images/blob/main/Contest/run.png" width="50%" height="50%"/>
 
 ### Во время выполнения программы в консоле вывода будет показан прогресс работы:
 <img src="https://github.com/Z0DEN/images/blob/main/Contest/end.png" width="65%" height="65%"/>
