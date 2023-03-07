@@ -16,7 +16,7 @@
 # Получение необходимых файлов:
 
 ### Для этого нажмем на зеленую кнопку `Code`:
-<img src="https://github.com/Z0DEN/images/blob/main/Contest/Code-button.png" width="65%" height="80%"/>
+<img src="https://github.com/Z0DEN/images/blob/main/Contest/Code-button.png" width="80%" height="80%"/>
 
 ### Затем `Download ZIP`:
 <img src="https://github.com/Z0DEN/images/blob/main/Contest/Download.png" width="65%" height="65%"/>
