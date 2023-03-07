@@ -21,7 +21,7 @@
 ### Затем `Download ZIP`:
 <img src="https://github.com/Z0DEN/images/blob/main/Contest/Download.png" width="55%" height="55%"/>
 
-### Затем необходимо распаковать скачанный архив
+### Следующим этапом необходимо распаковать скачанный архив
 
 # Перевод картинки в `Excel`
 # Перевод изображения из `Excel` в `png`  
