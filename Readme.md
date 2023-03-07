@@ -19,7 +19,7 @@
 ### для этого перейдем по ссылке: 
 https://github.com/Z0DEN/Python_projects/blob/main/Excel/img-to-xlsx.py
 
-
+# sfdf
 # Перевод изображения из `Excel` в `png`  
 # Установка необходимых библиотек для `Python`
 
