@@ -33,7 +33,7 @@
 ```
 pip install Pillow openpyxl numpy
 ```
-<img src="https://github.com/Z0DEN/images/blob/main/Contest/libraries.png" width="65%" height="65%"/>
+<img src="https://github.com/Z0DEN/images/blob/main/Contest/libraries.png" width="80%" height="80%"/>
 
 ---
 ---
