@@ -2,13 +2,15 @@ from PIL import Image
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill
 from openpyxl.utils import get_column_letter, column_index_from_string
+import getpass
 
+USERNAME = getpass.getuser()
 
 wb = Workbook()
 ws = wb.active
 ws1 = wb.create_sheet("Mysheet")
 
-im = Image.open("C:/Users/user_10/Downloads/contest-main/contest-main/test.png")
+im = Image.open('C:/Users/'f'{USERNAME}''/Downloads/Excel/Excel/test.png')
 pixels = im.load() # список с пикселями
 x, y = im.size # ширина (x) и высота (y) изображения
 

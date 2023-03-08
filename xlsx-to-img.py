@@ -4,6 +4,9 @@ from openpyxl import Workbook
 from openpyxl.styles import PatternFill
 import numpy as np
 from openpyxl.utils import get_column_letter, column_index_from_string
+import getpass
+
+USERNAME = getpass.getuser()
 
 wb = Workbook()
 ws = wb.active
@@ -23,7 +26,7 @@ input("Press Enter to continue...")
 im = Image.new('RGB', (100, 100), (255, 255, 255))
 draw = ImageDraw.Draw(im)
 
-workbook = openpyxl.load_workbook('/home/blesk/GitHub/Python_projects/pixel_art.xlsx')
+workbook = openpyxl.load_workbook('C:/Users/'f'{USERNAME}''/Downloads/Excel/Excel/pixel_art.xlsx')
 sheets_list = workbook.sheetnames
 sheet_active = workbook[sheets_list[0]]
 x = 0
