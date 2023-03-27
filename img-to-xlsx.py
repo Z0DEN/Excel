@@ -10,7 +10,9 @@ wb = Workbook()
 ws = wb.active
 ws1 = wb.create_sheet("Mysheet")
 
-im = Image.open('C:/Users/'f'{USERNAME}''/Downloads/Excel/Excel/test.png')
+
+im = Image.open('C:/Users/moi/.vscode/GitHub/Excel/test.png')
+# im = Image.open('C:/Users/'f'{USERNAME}''/Downloads/Excel-main/test.jpg')
 pixels = im.load() # список с пикселями
 x, y = im.size # ширина (x) и высота (y) изображения
 
