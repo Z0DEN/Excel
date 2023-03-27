@@ -36,6 +36,6 @@ for i in range(x):
             degree += 5
             process += '#'
             k += 1
-wb.save('img-to-xlsx.xlsx')
+wb.save('C:/Users/'f'{USERNAME}''/Downloads/Excel-main/img-to-xlsx.xlsx')
 pro = '####################'
 print('process:','[',pro,']','--- 100 %')

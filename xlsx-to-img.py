@@ -45,4 +45,4 @@ for number in range(1, 101):
         draw.rectangle((x-1, y, x-1, y), fill=f'{cell_hex}')
         y += 1
 img.show()
-img.save('NewImg2.jpg')
+img.save('NewImg.jpg')
