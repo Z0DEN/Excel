@@ -8,25 +8,6 @@ import getpass
 
 USERNAME = getpass.getuser()
 
-def createNewDoc():
-    wb = Workbook()
-    ws = wb.active
-    ws1 = wb.create_sheet("Mysheet")
-    g = 0
-
-    for j in range(1, 101):
-        for i in range(1, 101):
-            g += 1
-            letter = get_column_letter(g)
-            ws.column_dimensions[f'{letter}'].width = 3
-            ws.cell(row=j, column=i).fill = PatternFill(start_color='FF91D2FF', end_color='FF91D2FF', fill_type="solid")
-    wb.save('pixel_art.xlsx')
-
-
-#createNewDoc
-
-input("Press Enter to continue...")
-
 img = Image.new('RGB', (100, 100), (255, 255, 255))
 draw = ImageDraw.Draw(img)
 
