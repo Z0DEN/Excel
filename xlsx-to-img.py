@@ -25,5 +25,5 @@ for number in range(1, 101):
         cell_hex ='#' + cell_fill[2:8]
         draw.rectangle((x-1, y, x-1, y), fill=f'{cell_hex}')
         y += 1
-img.show()
 img.save('NewImg.jpg')
+img.show()
